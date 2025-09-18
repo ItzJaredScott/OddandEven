@@ -1,0 +1,14 @@
+C:\Github\OddEven\OddEven\bin\Debug\net8.0\OddEven.exe
+C:\Github\OddEven\OddEven\bin\Debug\net8.0\OddEven.deps.json
+C:\Github\OddEven\OddEven\bin\Debug\net8.0\OddEven.runtimeconfig.json
+C:\Github\OddEven\OddEven\bin\Debug\net8.0\OddEven.dll
+C:\Github\OddEven\OddEven\bin\Debug\net8.0\OddEven.pdb
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.AssemblyInfoInputs.cache
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.AssemblyInfo.cs
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.dll
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\refint\OddEven.dll
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.pdb
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\OddEven.genruntimeconfig.cache
+C:\Github\OddEven\OddEven\obj\Debug\net8.0\ref\OddEven.dll
